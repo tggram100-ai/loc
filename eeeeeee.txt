@@ -1,0 +1,2 @@
+playwright install chromium
+python main.py -s "سوبر ماركت في كركوك" -t 1000 -o result.csv --append
